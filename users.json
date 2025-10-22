@@ -1,9 +1,3 @@
 {
-  "users": [
-    {
-      "username": "ipul",
-      "password": "ipul",
-      "createdAt": "2025-10-22T08:53:16.021Z"
-    }
-  ]
+  "users": []
 }
