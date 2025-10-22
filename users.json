@@ -1,28 +1,10 @@
 {
   "users": [
     {
-      "username": "premiumuser",
-      "password": "premium123",
-      "createdAt": "2024-03-01T00:00:00.000Z",
-      "expireTime": "43200"
-    },
-    {
-      "username": "basicuser",
-      "password": "basic123",
-      "createdAt": "2024-03-05T00:00:00.000Z",
-      "expireTime": "1440"
-    },
-    {
       "username": "vipuser",
       "password": "vip123",
       "createdAt": "2024-03-10T00:00:00.000Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "testuser",
-      "password": "test123",
-      "createdAt": "2024-03-15T00:00:00.000Z",
-      "expireTime": "10080"
     },
     {
       "username": "ipul",
