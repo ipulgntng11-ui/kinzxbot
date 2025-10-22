@@ -5,12 +5,6 @@
       "password": "admin123",
       "createdAt": "2024-01-01T00:00:00.000Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "cyberkinz",
-      "password": "cyber123",
-      "createdAt": "2024-01-15T00:00:00.000Z",
-      "expireTime": "permanent"
     }
   ]
 }
