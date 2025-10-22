@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "vipuser",
-      "password": "vip123",
-      "createdAt": "2024-03-10T00:00:00.000Z",
-      "expireTime": "permanent"
-    },
-    {
       "username": "ipul",
       "password": "ipul",
       "createdAt": "2025-10-22T08:53:16.021Z"
