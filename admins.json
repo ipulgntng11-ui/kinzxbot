@@ -1,1 +1,22 @@
-
+{
+  "admins": [
+    {
+      "username": "kinzxxoffc",
+      "password": "admin123",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "expireTime": "permanent"
+    },
+    {
+      "username": "cyberkinz",
+      "password": "cyber123",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "expireTime": "permanent"
+    },
+    {
+      "username": "snowadmin",
+      "password": "snow123",
+      "createdAt": "2024-02-01T00:00:00.000Z",
+      "expireTime": "43200"
+    }
+  ]
+}
