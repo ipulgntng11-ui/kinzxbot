@@ -17,6 +17,12 @@
       "password": "1",
       "createdAt": "2025-10-23T07:42:39.131Z",
       "expireTime": "1"
+    },
+    {
+      "username": "kinzx1",
+      "password": "12211",
+      "createdAt": "2025-10-23T07:44:22.332Z",
+      "expireTime": "1400"
     }
   ]
 }
