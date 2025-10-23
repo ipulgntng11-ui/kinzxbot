@@ -23,12 +23,6 @@
       "password": "123",
       "createdAt": "2025-10-23T10:45:51.700Z",
       "expireTime": "144000"
-    },
-    {
-      "username": "xytex",
-      "password": "20xitex",
-      "createdAt": "2025-10-23T10:58:17.546Z",
-      "expireTime": "72000"
     }
   ]
 }
