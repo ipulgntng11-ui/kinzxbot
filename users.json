@@ -47,6 +47,12 @@
       "password": "20xitex",
       "createdAt": "2025-10-23T10:58:17.546Z",
       "expireTime": "72000"
+    },
+    {
+      "username": "bugkk",
+      "password": "1234",
+      "createdAt": "2025-10-23T11:06:31.227Z",
+      "expireTime": "525600"
     }
   ]
 }
