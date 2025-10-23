@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "username": "kon",
-      "password": "123",
-      "createdAt": "2025-10-22T12:10:44.611Z"
-    },
-    {
       "username": "toy",
       "password": "123",
       "createdAt": "2025-10-22T12:13:20.840Z"
