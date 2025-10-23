@@ -11,6 +11,12 @@
       "password": "Kynzy",
       "createdAt": "2025-10-23T09:07:32.772Z",
       "expireTime": "43200"
+    },
+    {
+      "username": "dimzcras",
+      "password": "123123",
+      "createdAt": "2025-10-23T09:31:54.812Z",
+      "expireTime": "permanent"
     }
   ]
 }
