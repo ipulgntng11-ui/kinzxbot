@@ -220,6 +220,14 @@
       "addedAt": "2025-10-23T10:29:18.254Z",
       "lastUpdated": "2025-10-23T12:18:59.230Z",
       "isActive": false
+    },
+    {
+      "chatId": -1003043913494,
+      "chatTitle": "ROOM PUBLICK",
+      "addedBy": "8498295311",
+      "addedAt": "2025-10-23T12:24:15.174Z",
+      "lastUpdated": "2025-10-23T12:24:15.174Z",
+      "isActive": true
     }
   ]
 }
