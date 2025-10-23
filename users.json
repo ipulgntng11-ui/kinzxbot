@@ -1,3 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "iky",
+      "password": "9999 hari",
+      "createdAt": "2025-10-23T02:31:56.255Z"
+    }
+  ]
 }
