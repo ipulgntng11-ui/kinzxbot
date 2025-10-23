@@ -94,6 +94,11 @@
       "coins": 1,
       "lastClaim": "2025-10-23",
       "totalClaimed": 5
+    },
+    "rizz": {
+      "coins": 4,
+      "lastClaim": "2025-10-23",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
