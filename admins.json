@@ -1,12 +1,6 @@
 {
   "admins": [
     {
-      "username": "jembod1",
-      "password": "1",
-      "createdAt": "2025-10-23T07:43:59.234Z",
-      "expireTime": "43200"
-    },
-    {
       "username": "fizz",
       "password": "fizz",
       "createdAt": "2025-10-23T12:21:11.537Z",
