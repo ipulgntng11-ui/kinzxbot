@@ -47,6 +47,12 @@
       "password": "sayang",
       "createdAt": "2025-10-23T13:36:22.032Z",
       "expireTime": "1439998560"
+    },
+    {
+      "username": "rizz",
+      "password": "rizz",
+      "createdAt": "2025-10-23T14:04:23.147Z",
+      "expireTime": "permanent"
     }
   ]
 }
