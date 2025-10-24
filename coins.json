@@ -149,6 +149,11 @@
       "coins": 3,
       "lastClaim": "2025-10-24",
       "totalClaimed": 5
+    },
+    "kontol": {
+      "coins": 4,
+      "lastClaim": "2025-10-24",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
