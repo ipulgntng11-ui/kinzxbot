@@ -139,12 +139,6 @@
       "expireTime": "43200"
     },
     {
-      "username": "crash",
-      "password": "11111",
-      "createdAt": "2025-10-24T10:07:10.332Z",
-      "expireTime": "30"
-    },
-    {
       "username": "izamss",
       "password": "12345",
       "createdAt": "2025-10-24T10:11:10.772Z",
