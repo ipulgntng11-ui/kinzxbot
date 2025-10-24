@@ -95,6 +95,12 @@
       "password": "rian123",
       "createdAt": "2025-10-24T07:59:57.625Z",
       "expireTime": "permanent"
+    },
+    {
+      "username": "lanz",
+      "password": "123",
+      "createdAt": "2025-10-24T08:02:43.724Z",
+      "expireTime": "9999"
     }
   ]
 }
