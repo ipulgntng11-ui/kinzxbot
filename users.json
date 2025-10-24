@@ -119,6 +119,12 @@
       "password": "123",
       "createdAt": "2025-10-24T09:31:03.644Z",
       "expireTime": "permanent"
+    },
+    {
+      "username": "kamu",
+      "password": "123",
+      "createdAt": "2025-10-24T09:44:06.715Z",
+      "expireTime": "43200"
     }
   ]
 }
