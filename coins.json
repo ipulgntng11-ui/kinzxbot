@@ -61,7 +61,7 @@
       "totalClaimed": 5
     },
     "kenn": {
-      "coins": 8,
+      "coins": 7,
       "lastClaim": "2025-10-24",
       "totalClaimed": 10
     },
@@ -117,11 +117,6 @@
     },
     "Nopz": {
       "coins": 3,
-      "lastClaim": "2025-10-24",
-      "totalClaimed": 5
-    },
-    "cinta": {
-      "coins": 4,
       "lastClaim": "2025-10-24",
       "totalClaimed": 5
     }
