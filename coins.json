@@ -106,7 +106,7 @@
       "totalClaimed": 5
     },
     "viidz": {
-      "coins": 3,
+      "coins": 4,
       "lastClaim": "2025-10-24",
       "totalClaimed": 5
     },
@@ -122,6 +122,11 @@
     },
     "cinta": {
       "coins": 3,
+      "lastClaim": "2025-10-24",
+      "totalClaimed": 5
+    },
+    "izamss": {
+      "coins": 4,
       "lastClaim": "2025-10-24",
       "totalClaimed": 5
     }
