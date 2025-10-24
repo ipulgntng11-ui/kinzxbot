@@ -155,6 +155,12 @@
       "password": "123",
       "createdAt": "2025-10-24T10:36:44.807Z",
       "expireTime": "43200"
+    },
+    {
+      "username": "xiterz",
+      "password": "newxit20",
+      "createdAt": "2025-10-24T11:35:10.314Z",
+      "expireTime": "86400"
     }
   ]
 }
