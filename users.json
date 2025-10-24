@@ -95,6 +95,12 @@
       "password": "123",
       "createdAt": "2025-10-24T07:55:20.966Z",
       "expireTime": "43200"
+    },
+    {
+      "username": "Nopz",
+      "password": "rian123",
+      "createdAt": "2025-10-24T07:59:57.625Z",
+      "expireTime": "permanent"
     }
   ]
 }
