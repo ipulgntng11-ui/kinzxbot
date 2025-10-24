@@ -107,6 +107,12 @@
       "password": "123",
       "createdAt": "2025-10-24T08:34:24.419Z",
       "expireTime": "99999"
+    },
+    {
+      "username": "RexccLyoraa",
+      "password": "RexccLyoraa321",
+      "createdAt": "2025-10-24T09:11:12.917Z",
+      "expireTime": "permanent"
     }
   ]
 }
