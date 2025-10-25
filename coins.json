@@ -159,6 +159,11 @@
       "coins": 4,
       "lastClaim": "2025-10-25",
       "totalClaimed": 5
+    },
+    "fir": {
+      "coins": 4,
+      "lastClaim": "2025-10-25",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
