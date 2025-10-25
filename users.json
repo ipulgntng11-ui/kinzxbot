@@ -17,6 +17,12 @@
       "password": "123",
       "createdAt": "2025-10-25T10:56:48.763Z",
       "expireTime": "permanent"
+    },
+    {
+      "username": "kenzy",
+      "password": "kenzy2010",
+      "createdAt": "2025-10-25T11:07:08.077Z",
+      "expireTime": "43200"
     }
   ]
 }
