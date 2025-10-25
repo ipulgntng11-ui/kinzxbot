@@ -47,12 +47,6 @@
       "password": "12",
       "createdAt": "2025-10-25T10:05:28.867Z",
       "expireTime": "43200"
-    },
-    {
-      "username": "ikiy",
-      "password": "123",
-      "createdAt": "2025-10-25T10:06:11.160Z",
-      "expireTime": "99999"
     }
   ]
 }
