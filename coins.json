@@ -171,7 +171,12 @@
       "totalClaimed": 5
     },
     "sad": {
-      "coins": 3,
+      "coins": 4,
+      "lastClaim": "2025-10-25",
+      "totalClaimed": 5
+    },
+    "tanzz": {
+      "coins": 4,
       "lastClaim": "2025-10-25",
       "totalClaimed": 5
     }
