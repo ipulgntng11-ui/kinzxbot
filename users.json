@@ -41,12 +41,6 @@
       "password": "rian123",
       "createdAt": "2025-10-24T14:39:49.829Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "yo",
-      "password": "12",
-      "createdAt": "2025-10-25T10:05:28.867Z",
-      "expireTime": "43200"
     }
   ]
 }
