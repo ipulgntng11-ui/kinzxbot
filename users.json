@@ -17,12 +17,6 @@
       "password": "12",
       "createdAt": "2025-10-24T12:57:04.506Z",
       "expireTime": "43200"
-    },
-    {
-      "username": "kontol",
-      "password": "321",
-      "createdAt": "2025-10-24T13:08:40.019Z",
-      "expireTime": "9999"
     }
   ]
 }
