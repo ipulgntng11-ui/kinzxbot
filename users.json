@@ -11,6 +11,12 @@
       "password": "123",
       "createdAt": "2025-10-25T10:48:54.364Z",
       "expireTime": "9999"
+    },
+    {
+      "username": "rappahost",
+      "password": "123",
+      "createdAt": "2025-10-25T10:56:48.763Z",
+      "expireTime": "permanent"
     }
   ]
 }
