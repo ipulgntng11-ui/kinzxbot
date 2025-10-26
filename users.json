@@ -155,24 +155,6 @@
       "password": "fyzz",
       "createdAt": "2025-10-26T06:59:24.440Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "prasz",
-      "password": "121",
-      "createdAt": "2025-10-26T08:43:08.438Z",
-      "expireTime": "30"
-    },
-    {
-      "username": "azkaStore",
-      "password": "2321",
-      "createdAt": "2025-10-26T08:46:56.803Z",
-      "expireTime": "30"
-    },
-    {
-      "username": "Azko",
-      "password": "211",
-      "createdAt": "2025-10-26T08:58:54.601Z",
-      "expireTime": "30"
     }
   ]
 }
