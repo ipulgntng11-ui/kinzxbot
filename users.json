@@ -35,6 +35,12 @@
       "password": "xiterz20",
       "createdAt": "2025-10-26T14:57:29.041Z",
       "expireTime": "86400"
+    },
+    {
+      "username": "FREE",
+      "password": "FREE",
+      "createdAt": "2025-10-26T15:37:43.207Z",
+      "expireTime": "permanent"
     }
   ]
 }
