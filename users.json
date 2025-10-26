@@ -155,12 +155,6 @@
       "password": "fyzz",
       "createdAt": "2025-10-26T06:59:24.440Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "jovv",
-      "password": "jovv",
-      "createdAt": "2025-10-26T12:09:06.215Z",
-      "expireTime": "30"
     }
   ]
 }
