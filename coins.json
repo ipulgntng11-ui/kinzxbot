@@ -141,9 +141,9 @@
       "totalClaimed": 10
     },
     "PANZ": {
-      "coins": 13,
-      "lastClaim": "2025-10-26",
-      "totalClaimed": 15
+      "coins": 9,
+      "lastClaim": "2025-10-25",
+      "totalClaimed": 10
     },
     "gila": {
       "coins": 0,
@@ -191,6 +191,11 @@
       "totalClaimed": 5
     },
     "algi": {
+      "coins": 4,
+      "lastClaim": "2025-10-26",
+      "totalClaimed": 5
+    },
+    "bayz": {
       "coins": 4,
       "lastClaim": "2025-10-26",
       "totalClaimed": 5
