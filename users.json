@@ -127,12 +127,6 @@
       "expireTime": "20160"
     },
     {
-      "username": "fizz",
-      "password": "123",
-      "createdAt": "2025-10-26T02:04:52.104Z",
-      "expireTime": "permanent"
-    },
-    {
       "username": "vanzy0",
       "password": "vanzygg32",
       "createdAt": "2025-10-26T02:07:51.914Z",
