@@ -5,12 +5,6 @@
       "password": "tod",
       "createdAt": "2025-10-26T03:10:17.817Z",
       "expireTime": "1438560"
-    },
-    {
-      "username": "jembod1",
-      "password": "1",
-      "createdAt": "2025-10-26T08:16:37.206Z",
-      "expireTime": "permanent"
     }
   ]
 }
