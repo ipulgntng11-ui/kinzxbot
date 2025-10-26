@@ -47,12 +47,6 @@
       "password": "123",
       "createdAt": "2025-10-26T00:56:58.521Z",
       "expireTime": "43200"
-    },
-    {
-      "username": "PANZ",
-      "password": "1945",
-      "createdAt": "2025-10-26T01:56:13.836Z",
-      "expireTime": "20160"
     }
   ]
 }
