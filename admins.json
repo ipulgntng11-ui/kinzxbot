@@ -1,10 +1,3 @@
 {
-  "admins": [
-    {
-      "username": "oik",
-      "password": "tod",
-      "createdAt": "2025-10-26T03:10:17.817Z",
-      "expireTime": "1438560"
-    }
-  ]
+  "admins": []
 }
