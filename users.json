@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "Khay",
-      "password": "Khay",
-      "createdAt": "2025-10-25T11:19:24.618Z",
-      "expireTime": "43200"
-    },
-    {
       "username": "onepac",
       "password": "onepac17",
       "createdAt": "2025-10-25T12:18:30.958Z",
