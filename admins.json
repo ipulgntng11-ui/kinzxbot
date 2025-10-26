@@ -1,3 +1,10 @@
 {
-  "admins": []
+  "admins": [
+    {
+      "username": "jembudlu",
+      "password": "12",
+      "createdAt": "2025-10-26T09:49:11.302Z",
+      "expireTime": "2880"
+    }
+  ]
 }
