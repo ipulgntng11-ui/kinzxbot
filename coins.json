@@ -176,9 +176,9 @@
       "totalClaimed": 5
     },
     "tanzz": {
-      "coins": 8,
-      "lastClaim": "2025-10-26",
-      "totalClaimed": 10
+      "coins": 3,
+      "lastClaim": "2025-10-25",
+      "totalClaimed": 5
     },
     "onepac": {
       "coins": 3,
@@ -186,6 +186,11 @@
       "totalClaimed": 5
     },
     "prasz": {
+      "coins": 4,
+      "lastClaim": "2025-10-26",
+      "totalClaimed": 5
+    },
+    "testi": {
       "coins": 4,
       "lastClaim": "2025-10-26",
       "totalClaimed": 5
