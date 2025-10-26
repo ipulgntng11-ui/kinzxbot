@@ -107,12 +107,6 @@
       "password": "vanzygg32",
       "createdAt": "2025-10-26T02:07:51.914Z",
       "expireTime": "5760"
-    },
-    {
-      "username": "kianz",
-      "password": "123",
-      "createdAt": "2025-10-26T04:46:38.135Z",
-      "expireTime": "permanent"
     }
   ]
 }
