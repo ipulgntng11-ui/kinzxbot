@@ -149,12 +149,6 @@
       "password": "123",
       "createdAt": "2025-10-26T05:53:03.116Z",
       "expireTime": "43200"
-    },
-    {
-      "username": "fyzz",
-      "password": "fyzz",
-      "createdAt": "2025-10-26T06:59:24.440Z",
-      "expireTime": "permanent"
     }
   ]
 }
