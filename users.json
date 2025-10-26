@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "ebixx",
+      "password": "ebixx112",
+      "createdAt": "2025-10-26T13:01:52.844Z",
+      "expireTime": "38880"
+    }
+  ]
 }
