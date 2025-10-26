@@ -206,7 +206,12 @@
       "totalClaimed": 5
     },
     "testi": {
-      "coins": 0,
+      "coins": 2,
+      "lastClaim": "2025-10-26",
+      "totalClaimed": 5
+    },
+    "rifkyaja": {
+      "coins": 4,
       "lastClaim": "2025-10-26",
       "totalClaimed": 5
     }
