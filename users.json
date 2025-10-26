@@ -73,12 +73,6 @@
       "expireTime": "99999"
     },
     {
-      "username": "crash",
-      "password": "11111",
-      "createdAt": "2025-10-25T19:45:09.657Z",
-      "expireTime": "43200"
-    },
-    {
       "username": "bayz",
       "password": "123",
       "createdAt": "2025-10-26T00:56:58.521Z",
