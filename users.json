@@ -97,12 +97,6 @@
       "expireTime": "43200"
     },
     {
-      "username": "prasz",
-      "password": "121",
-      "createdAt": "2025-10-26T00:15:05.243Z",
-      "expireTime": "30"
-    },
-    {
       "username": "poke",
       "password": "123",
       "createdAt": "2025-10-26T00:55:55.942Z",
