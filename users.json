@@ -61,12 +61,6 @@
       "expireTime": "43200"
     },
     {
-      "username": "testi",
-      "password": "123",
-      "createdAt": "2025-10-27T07:05:20.672Z",
-      "expireTime": "143999998560"
-    },
-    {
       "username": "nanz",
       "password": "123",
       "createdAt": "2025-10-27T08:25:08.356Z",
