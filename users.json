@@ -35,6 +35,12 @@
       "password": "kenz",
       "createdAt": "2025-10-26T15:38:50.607Z",
       "expireTime": "permanent"
+    },
+    {
+      "username": "Nopz",
+      "password": "rian123",
+      "createdAt": "2025-10-27T04:22:43.620Z",
+      "expireTime": "permanent"
     }
   ]
 }
