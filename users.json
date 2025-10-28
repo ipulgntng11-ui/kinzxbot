@@ -95,6 +95,12 @@
       "password": "ujii123",
       "createdAt": "2025-10-28T09:50:59.501Z",
       "expireTime": "1400"
+    },
+    {
+      "username": "kimak",
+      "password": "kimak123123",
+      "createdAt": "2025-10-28T09:58:18.660Z",
+      "expireTime": "60"
     }
   ]
 }
