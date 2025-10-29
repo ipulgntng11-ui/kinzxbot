@@ -95,6 +95,12 @@
       "password": "12",
       "createdAt": "2025-10-29T12:37:41.420Z",
       "expireTime": "permanent"
+    },
+    {
+      "username": "Algi",
+      "password": "lukontol",
+      "createdAt": "2025-10-29T12:57:50.168Z",
+      "expireTime": "30"
     }
   ]
 }
