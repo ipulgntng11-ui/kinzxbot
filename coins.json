@@ -329,6 +329,11 @@
       "coins": 4,
       "lastClaim": "2025-10-29",
       "totalClaimed": 5
+    },
+    "danu": {
+      "coins": 4,
+      "lastClaim": "2025-10-29",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
