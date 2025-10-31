@@ -354,6 +354,11 @@
       "coins": 4,
       "lastClaim": "2025-10-31",
       "totalClaimed": 5
+    },
+    "avai": {
+      "coins": 4,
+      "lastClaim": "2025-10-31",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
