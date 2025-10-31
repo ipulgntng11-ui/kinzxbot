@@ -316,9 +316,9 @@
       "totalClaimed": 5
     },
     "zuriss": {
-      "coins": 9,
-      "lastClaim": "2025-10-31",
-      "totalClaimed": 15
+      "coins": 6,
+      "lastClaim": "2025-10-30",
+      "totalClaimed": 10
     },
     "apkt": {
       "coins": 7,
@@ -362,6 +362,11 @@
     },
     "tidal": {
       "coins": 3,
+      "lastClaim": "2025-10-31",
+      "totalClaimed": 5
+    },
+    "Nijam": {
+      "coins": 4,
       "lastClaim": "2025-10-31",
       "totalClaimed": 5
     }
