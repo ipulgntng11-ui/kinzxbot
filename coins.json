@@ -346,16 +346,11 @@
       "totalClaimed": 5
     },
     "kenal": {
-      "coins": 5,
+      "coins": 4,
       "lastClaim": "2025-10-31",
       "totalClaimed": 10
     },
     "YAMA": {
-      "coins": 4,
-      "lastClaim": "2025-10-31",
-      "totalClaimed": 5
-    },
-    "dimas": {
       "coins": 4,
       "lastClaim": "2025-10-31",
       "totalClaimed": 5
