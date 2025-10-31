@@ -131,6 +131,12 @@
       "password": "Kontol",
       "createdAt": "2025-10-31T05:44:46.215Z",
       "expireTime": "43200"
+    },
+    {
+      "username": "dimas",
+      "password": "dimas",
+      "createdAt": "2025-10-31T06:55:46.440Z",
+      "expireTime": "43200"
     }
   ]
 }
