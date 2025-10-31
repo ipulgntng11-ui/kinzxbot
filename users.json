@@ -149,12 +149,6 @@
       "password": "coli1",
       "createdAt": "2025-10-31T07:28:20.186Z",
       "expireTime": "43200"
-    },
-    {
-      "username": "121",
-      "password": "121",
-      "createdAt": "2025-10-31T07:48:14.113Z",
-      "expireTime": "1440"
     }
   ]
 }
