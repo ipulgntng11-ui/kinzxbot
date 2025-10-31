@@ -155,12 +155,6 @@
       "password": "2222",
       "createdAt": "2025-10-31T13:26:10.797Z",
       "expireTime": "28800"
-    },
-    {
-      "username": "hilal",
-      "password": "hilalgtg",
-      "createdAt": "2025-10-31T15:14:46.068Z",
-      "expireTime": "300"
     }
   ]
 }
