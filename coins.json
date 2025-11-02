@@ -384,6 +384,11 @@
       "coins": 2,
       "lastClaim": "2025-11-02",
       "totalClaimed": 5
+    },
+    "Fornes": {
+      "coins": 4,
+      "lastClaim": "2025-11-02",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
