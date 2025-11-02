@@ -276,9 +276,9 @@
       "totalClaimed": 5
     },
     "tio": {
-      "coins": 9,
-      "lastClaim": "2025-11-01",
-      "totalClaimed": 25
+      "coins": 14,
+      "lastClaim": "2025-11-02",
+      "totalClaimed": 30
     },
     "Akbarzz": {
       "coins": 0,
@@ -382,11 +382,6 @@
     },
     "hilal": {
       "coins": 2,
-      "lastClaim": "2025-11-02",
-      "totalClaimed": 5
-    },
-    "Fornes": {
-      "coins": 3,
       "lastClaim": "2025-11-02",
       "totalClaimed": 5
     }
