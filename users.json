@@ -173,6 +173,12 @@
       "password": "Suffbug",
       "createdAt": "2025-11-02T14:43:48.370Z",
       "expireTime": "permanent"
+    },
+    {
+      "username": "Dikz",
+      "password": "Dikz123",
+      "createdAt": "2025-11-03T10:09:53.114Z",
+      "expireTime": "43200"
     }
   ]
 }
