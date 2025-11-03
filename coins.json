@@ -281,7 +281,7 @@
       "totalClaimed": 25
     },
     "Akbarzz": {
-      "coins": 1,
+      "coins": 5,
       "lastClaim": "2025-11-03",
       "totalClaimed": 20
     },
@@ -399,6 +399,11 @@
       "coins": 5,
       "lastClaim": "2025-11-03",
       "totalClaimed": 10
+    },
+    "Ditz": {
+      "coins": 4,
+      "lastClaim": "2025-11-03",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
