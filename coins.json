@@ -321,7 +321,7 @@
       "totalClaimed": 10
     },
     "apkt": {
-      "coins": 8,
+      "coins": 9,
       "lastClaim": "2025-11-04",
       "totalClaimed": 15
     },
@@ -416,6 +416,11 @@
       "totalClaimed": 5
     },
     "bydraa": {
+      "coins": 4,
+      "lastClaim": "2025-11-04",
+      "totalClaimed": 5
+    },
+    "asky": {
       "coins": 4,
       "lastClaim": "2025-11-04",
       "totalClaimed": 5
