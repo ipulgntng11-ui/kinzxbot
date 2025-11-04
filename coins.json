@@ -396,13 +396,18 @@
       "totalClaimed": 10
     },
     "hilal": {
-      "coins": 3,
-      "lastClaim": "2025-11-04",
-      "totalClaimed": 15
+      "coins": 2,
+      "lastClaim": "2025-11-03",
+      "totalClaimed": 10
     },
     "Ditz": {
       "coins": 3,
       "lastClaim": "2025-11-03",
+      "totalClaimed": 5
+    },
+    "ditzkon": {
+      "coins": 4,
+      "lastClaim": "2025-11-04",
       "totalClaimed": 5
     }
   },
