@@ -191,6 +191,12 @@
       "password": "Ditz10",
       "createdAt": "2025-11-04T00:23:37.764Z",
       "expireTime": "43200"
+    },
+    {
+      "username": "aditz",
+      "password": "aditz",
+      "createdAt": "2025-11-04T08:05:26.078Z",
+      "expireTime": "50400"
     }
   ]
 }
