@@ -421,9 +421,9 @@
       "totalClaimed": 5
     },
     "asky": {
-      "coins": 0,
-      "lastClaim": "2025-11-04",
-      "totalClaimed": 5
+      "coins": 5,
+      "lastClaim": "2025-11-05",
+      "totalClaimed": 10
     }
   },
   "lastReset": "2025-10-22"
