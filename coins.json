@@ -424,6 +424,11 @@
       "coins": 4,
       "lastClaim": "2025-11-05",
       "totalClaimed": 10
+    },
+    "ran": {
+      "coins": 4,
+      "lastClaim": "2025-11-05",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
