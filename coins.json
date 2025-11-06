@@ -361,9 +361,9 @@
       "totalClaimed": 5
     },
     "tidal": {
-      "coins": 20,
-      "lastClaim": "2025-11-06",
-      "totalClaimed": 25
+      "coins": 16,
+      "lastClaim": "2025-11-05",
+      "totalClaimed": 20
     },
     "Nijam": {
       "coins": 12,
@@ -426,9 +426,9 @@
       "totalClaimed": 10
     },
     "ran": {
-      "coins": 3,
-      "lastClaim": "2025-11-05",
-      "totalClaimed": 5
+      "coins": 8,
+      "lastClaim": "2025-11-06",
+      "totalClaimed": 10
     }
   },
   "lastReset": "2025-10-22"
