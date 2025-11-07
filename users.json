@@ -239,6 +239,12 @@
       "password": "13",
       "createdAt": "2025-11-06T07:48:25.253Z",
       "expireTime": "143999998560"
+    },
+    {
+      "username": "triz",
+      "password": "triz21",
+      "createdAt": "2025-11-07T13:38:34.267Z",
+      "expireTime": "43200"
     }
   ]
 }
