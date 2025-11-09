@@ -151,12 +151,6 @@
       "expireTime": "permanent"
     },
     {
-      "username": "hilal",
-      "password": "hilal445",
-      "createdAt": "2025-11-02T07:48:23.862Z",
-      "expireTime": "10080"
-    },
-    {
       "username": "a",
       "password": "20",
       "createdAt": "2025-11-02T08:01:03.480Z",
