@@ -441,6 +441,11 @@
       "totalClaimed": 5
     },
     "free1": {
+      "coins": 5,
+      "lastClaim": "2025-11-09",
+      "totalClaimed": 5
+    },
+    "free2": {
       "coins": 4,
       "lastClaim": "2025-11-09",
       "totalClaimed": 5
