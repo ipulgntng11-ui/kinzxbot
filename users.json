@@ -275,6 +275,12 @@
       "password": "1",
       "createdAt": "2025-11-09T06:53:54.228Z",
       "expireTime": "7200"
+    },
+    {
+      "username": "free2",
+      "password": "108920",
+      "createdAt": "2025-11-09T06:54:09.171Z",
+      "expireTime": "10080"
     }
   ]
 }
