@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "dimas",
-      "password": "dimas",
-      "createdAt": "2025-10-31T06:55:46.440Z",
-      "expireTime": "43200"
-    },
-    {
       "username": "avai",
       "password": "coli1",
       "createdAt": "2025-10-31T07:28:20.186Z",
