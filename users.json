@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "YAMA",
-      "password": "Hoshino",
-      "createdAt": "2025-11-01T15:41:49.820Z",
-      "expireTime": "permanent"
-    },
-    {
       "username": "AxzZz",
       "password": "AxzZz1",
       "createdAt": "2025-11-02T04:32:31.929Z",
