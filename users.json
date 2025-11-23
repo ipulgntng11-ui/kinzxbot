@@ -11,6 +11,12 @@
       "password": "rian123",
       "createdAt": "2025-11-23T13:19:25.720Z",
       "expireTime": "permanent"
+    },
+    {
+      "username": "freenih",
+      "password": "1213",
+      "createdAt": "2025-11-23T13:23:05.419Z",
+      "expireTime": "41760"
     }
   ]
 }
