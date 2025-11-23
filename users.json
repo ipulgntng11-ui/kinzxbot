@@ -1,10 +1,3 @@
 {
-  "users": [
-    {
-      "username": "sayang",
-      "password": "123",
-      "createdAt": "2025-11-07T14:03:55.767Z",
-      "expireTime": "143999998560"
-    }
-  ]
+  "users": []
 }
