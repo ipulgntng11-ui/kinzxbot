@@ -459,6 +459,11 @@
       "coins": 23,
       "lastClaim": "2025-11-22",
       "totalClaimed": 30
+    },
+    "iful": {
+      "coins": 4,
+      "lastClaim": "2025-11-23",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-10-22"
