@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "pel",
-      "password": "pel01",
-      "createdAt": "2025-11-04T08:49:38.450Z",
-      "expireTime": "142560"
-    },
-    {
       "username": "nanz",
       "password": "123",
       "createdAt": "2025-11-04T12:36:28.736Z",
