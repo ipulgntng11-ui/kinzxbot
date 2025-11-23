@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "poke",
-      "password": "222",
-      "createdAt": "2025-10-30T10:46:55.952Z",
-      "expireTime": "43200"
-    },
-    {
       "username": "kenal",
       "password": "222",
       "createdAt": "2025-10-30T10:59:30.725Z",
