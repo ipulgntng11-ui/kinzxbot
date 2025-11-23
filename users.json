@@ -23,12 +23,6 @@
       "password": "ngemis",
       "createdAt": "2025-11-23T13:24:50.245Z",
       "expireTime": "43200"
-    },
-    {
-      "username": "YAMA",
-      "password": "Puqi",
-      "createdAt": "2025-11-23T23:21:51.338Z",
-      "expireTime": "permanent"
     }
   ]
 }
