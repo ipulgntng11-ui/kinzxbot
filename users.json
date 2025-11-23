@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "zuriss",
-      "password": "zura123",
-      "createdAt": "2025-10-28T09:12:02.439Z",
-      "expireTime": "53280"
-    },
-    {
       "username": "apkt",
       "password": "123",
       "createdAt": "2025-10-29T09:52:34.342Z",
