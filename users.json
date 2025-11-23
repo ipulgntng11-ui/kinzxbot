@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "username": "AxzZz",
-      "password": "AxzZz1",
-      "createdAt": "2025-11-02T04:32:31.929Z",
-      "expireTime": "permanent"
-    },
-    {
       "username": "SuffSture22",
       "password": "Suffbug",
       "createdAt": "2025-11-02T14:43:48.370Z",
