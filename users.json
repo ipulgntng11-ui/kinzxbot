@@ -1,34 +1,3 @@
 {
-  "users": [
-    {
-      "username": "ikram",
-      "password": "ikram01",
-      "createdAt": "2025-11-23T10:55:41.234Z",
-      "expireTime": "100800"
-    },
-    {
-      "username": "iful",
-      "password": "121",
-      "createdAt": "2025-11-23T11:12:57.796Z",
-      "expireTime": "144000000"
-    },
-    {
-      "username": "binzz",
-      "password": "pass1212",
-      "createdAt": "2025-11-23T11:27:07.706Z",
-      "expireTime": "1000000"
-    },
-    {
-      "username": "yanto",
-      "password": "1212",
-      "createdAt": "2025-11-23T11:31:45.339Z",
-      "expireTime": "3000000000000"
-    },
-    {
-      "username": "rellkontol",
-      "password": "rellbabi",
-      "createdAt": "2025-11-23T11:53:50.784Z",
-      "expireTime": "permanent"
-    }
-  ]
+  "users": []
 }
