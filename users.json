@@ -1,24 +1,6 @@
 {
   "users": [
     {
-      "username": "ebixx",
-      "password": "ebixx112",
-      "createdAt": "2025-10-26T13:01:52.844Z",
-      "expireTime": "38880"
-    },
-    {
-      "username": "kenzy",
-      "password": "kenzyaja2010",
-      "createdAt": "2025-10-26T13:31:16.927Z",
-      "expireTime": "36000"
-    },
-    {
-      "username": "PANZ",
-      "password": "2010",
-      "createdAt": "2025-10-26T13:40:52.941Z",
-      "expireTime": "20160"
-    },
-    {
       "username": "nasi",
       "password": "123",
       "createdAt": "2025-10-26T14:50:06.431Z",
@@ -127,18 +109,6 @@
       "expireTime": "43200"
     },
     {
-      "username": "tidal",
-      "password": "2222",
-      "createdAt": "2025-10-31T09:34:18.836Z",
-      "expireTime": "28800"
-    },
-    {
-      "username": "Toli",
-      "password": "2222",
-      "createdAt": "2025-10-31T13:26:10.797Z",
-      "expireTime": "28800"
-    },
-    {
       "username": "YAMA",
       "password": "Hoshino",
       "createdAt": "2025-11-01T15:41:49.820Z",
@@ -149,18 +119,6 @@
       "password": "AxzZz1",
       "createdAt": "2025-11-02T04:32:31.929Z",
       "expireTime": "permanent"
-    },
-    {
-      "username": "a",
-      "password": "20",
-      "createdAt": "2025-11-02T08:01:03.480Z",
-      "expireTime": "28800"
-    },
-    {
-      "username": "Afp",
-      "password": "afp12",
-      "createdAt": "2025-11-02T14:00:12.448Z",
-      "expireTime": "28800"
     },
     {
       "username": "SuffSture22",
@@ -217,12 +175,6 @@
       "expireTime": "50400"
     },
     {
-      "username": "ABC",
-      "password": "12",
-      "createdAt": "2025-11-04T16:18:45.831Z",
-      "expireTime": "21600"
-    },
-    {
       "username": "ran",
       "password": "ran21",
       "createdAt": "2025-11-05T09:02:29.496Z",
@@ -251,36 +203,6 @@
       "password": "123",
       "createdAt": "2025-11-07T14:03:55.767Z",
       "expireTime": "143999998560"
-    },
-    {
-      "username": "ipulgntng",
-      "password": "121",
-      "createdAt": "2025-11-08T12:12:33.537Z",
-      "expireTime": "1440"
-    },
-    {
-      "username": "1212",
-      "password": "ipul",
-      "createdAt": "2025-11-09T03:59:07.672Z",
-      "expireTime": "2880"
-    },
-    {
-      "username": "free1",
-      "password": "1",
-      "createdAt": "2025-11-09T06:53:54.228Z",
-      "expireTime": "7200"
-    },
-    {
-      "username": "free2",
-      "password": "108920",
-      "createdAt": "2025-11-09T06:54:09.171Z",
-      "expireTime": "10080"
-    },
-    {
-      "username": "81918",
-      "password": "1927",
-      "createdAt": "2025-11-09T06:54:19.225Z",
-      "expireTime": "4320"
     }
   ]
 }
