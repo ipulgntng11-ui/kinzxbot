@@ -11,6 +11,12 @@
       "password": "121",
       "createdAt": "2025-11-23T11:12:57.796Z",
       "expireTime": "144000000"
+    },
+    {
+      "username": "binzz",
+      "password": "pass1212",
+      "createdAt": "2025-11-23T11:27:07.706Z",
+      "expireTime": "1000000"
     }
   ]
 }
