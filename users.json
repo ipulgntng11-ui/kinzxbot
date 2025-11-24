@@ -47,6 +47,12 @@
       "password": "yt81",
       "createdAt": "2025-11-24T12:22:33.545Z",
       "expireTime": "525600"
+    },
+    {
+      "username": "fanzz",
+      "password": "yt81",
+      "createdAt": "2025-11-24T12:24:56.749Z",
+      "expireTime": "permanent"
     }
   ]
 }
