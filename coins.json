@@ -1,1 +1,10 @@
-[]
+{
+  "users": {
+    "puqimak": {
+      "coins": 4,
+      "lastClaim": "2025-11-24",
+      "totalClaimed": 5
+    }
+  },
+  "lastReset": "2025-11-24"
+}
