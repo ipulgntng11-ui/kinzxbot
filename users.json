@@ -23,6 +23,12 @@
       "password": "ngemis",
       "createdAt": "2025-11-23T13:24:50.245Z",
       "expireTime": "43200"
+    },
+    {
+      "username": "kizoa",
+      "password": "owkwo",
+      "createdAt": "2025-11-24T00:44:15.800Z",
+      "expireTime": "2000"
     }
   ]
 }
