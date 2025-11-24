@@ -1,34 +1,3 @@
 {
-  "users": [
-    {
-      "username": "buyerfree",
-      "password": "12free",
-      "createdAt": "2025-11-23T12:50:01.230Z",
-      "expireTime": "43200"
-    },
-    {
-      "username": "NopzStarboyy",
-      "password": "rian123",
-      "createdAt": "2025-11-23T13:19:25.720Z",
-      "expireTime": "permanent"
-    },
-    {
-      "username": "freenih",
-      "password": "1213",
-      "createdAt": "2025-11-23T13:23:05.419Z",
-      "expireTime": "41760"
-    },
-    {
-      "username": "freenihbuatlungemis",
-      "password": "ngemis",
-      "createdAt": "2025-11-23T13:24:50.245Z",
-      "expireTime": "43200"
-    },
-    {
-      "username": "kizoa",
-      "password": "owkwo",
-      "createdAt": "2025-11-24T00:44:15.800Z",
-      "expireTime": "2000"
-    }
-  ]
+  "users": []
 }
