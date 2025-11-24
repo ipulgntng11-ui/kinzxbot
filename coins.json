@@ -24,6 +24,11 @@
       "coins": 0,
       "lastClaim": "2025-11-24",
       "totalClaimed": 5
+    },
+    "bocahbeban": {
+      "coins": 4,
+      "lastClaim": "2025-11-24",
+      "totalClaimed": 5
     }
   },
   "lastReset": "2025-11-24"
