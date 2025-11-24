@@ -5,6 +5,12 @@
       "password": "kinzxx",
       "createdAt": "2025-11-24T10:12:12.724Z",
       "expireTime": "43200"
+    },
+    {
+      "username": "bocahbeban",
+      "password": "beban",
+      "createdAt": "2025-11-24T10:34:37.654Z",
+      "expireTime": "permanent"
     }
   ]
 }
