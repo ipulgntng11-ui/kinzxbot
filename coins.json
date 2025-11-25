@@ -26,7 +26,7 @@
       "totalClaimed": 5
     },
     "bocahbeban": {
-      "coins": 5,
+      "coins": 15,
       "lastClaim": "2025-11-25",
       "totalClaimed": 10
     },
@@ -41,9 +41,14 @@
       "totalClaimed": 5
     },
     "ipulstorecoy": {
-      "coins": 978,
+      "coins": 982,
       "lastClaim": "2025-11-25",
       "totalClaimed": 5
+    },
+    "waito": {
+      "coins": 10,
+      "lastClaim": "2025-11-25",
+      "totalClaimed": 10
     }
   },
   "lastReset": "2025-11-24"
