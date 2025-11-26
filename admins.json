@@ -1,3 +1,10 @@
 {
-  "admins": []
+  "admins": [
+    {
+      "username": "ipulgntng",
+      "password": "kinzxx",
+      "createdAt": "2025-11-26T09:01:23.392Z",
+      "expireTime": "permanent"
+    }
+  ]
 }
