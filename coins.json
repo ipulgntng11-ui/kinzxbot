@@ -49,6 +49,11 @@
       "coins": 16,
       "lastClaim": "2025-11-26",
       "totalClaimed": 20
+    },
+    "denzz": {
+      "coins": 8,
+      "lastClaim": "2025-11-26",
+      "totalClaimed": 10
     }
   },
   "lastReset": "2025-11-24"
