@@ -44,6 +44,12 @@
       "username": "jembud",
       "password": "mbud",
       "role": "user"
+    },
+    {
+      "username": "kontol",
+      "password": "1222",
+      "createdAt": "2025-11-26T05:52:32.551Z",
+      "expireTime": "1440"
     }
   ]
 }
