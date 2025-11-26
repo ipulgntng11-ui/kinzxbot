@@ -39,6 +39,11 @@
     {
       "username": "kinzxx",
       "password": "1213"
+    },
+    {
+      "username": "jembud",
+      "password": "mbud",
+      "role": "user"
     }
   ]
 }
