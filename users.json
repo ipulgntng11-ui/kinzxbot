@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "kenzy",
+      "password": "kenzy117",
+      "createdAt": "2025-11-27T07:04:33.828Z",
+      "expireTime": "2026"
+    }
+  ]
 }
